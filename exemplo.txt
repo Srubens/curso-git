@@ -3,3 +3,5 @@ criando txt e coisas para melhorar o aprendizado.
 
 uma nova msg para verificar o git diff
 
+//este foi retirado com o git checkout
+add com o git add diretamente
