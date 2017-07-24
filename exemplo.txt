@@ -5,3 +5,5 @@ uma nova msg para verificar o git diff
 
 //este foi retirado com o git checkout
 add com o git add diretamente
+
+colocando este arquivo no repositorio criado
