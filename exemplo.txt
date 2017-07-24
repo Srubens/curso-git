@@ -1,3 +1,5 @@
 Meu exeplo de txt no curso de git.txt
 criando txt e coisas para melhorar o aprendizado.
 
+uma nova msg para verificar o git diff
+
